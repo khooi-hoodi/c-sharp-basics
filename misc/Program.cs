@@ -135,24 +135,38 @@
 //     Console.WriteLine(movies[i]);
 // }
 
-List<string> shoppingList = new List<string>();
+// List<string> shoppingList = new List<string>();
 
-shoppingList.Add("Dreams");
-shoppingList.Add("Miracles");
-shoppingList.Add("Rainbows");
-shoppingList.Add("Pony");
+// shoppingList.Add("Dreams");
+// shoppingList.Add("Miracles");
+// shoppingList.Add("Rainbows");
+// shoppingList.Add("Pony");
 
-for (int i = 0; i < shoppingList.Count; i++)
-{
-    Console.WriteLine(shoppingList[i]);
-}
+// for (int i = 0; i < shoppingList.Count; i++)
+// {
+//     Console.WriteLine(shoppingList[i]);
+// }
 
-shoppingList.Remove("Dreams");
-shoppingList.RemoveAt(1);
+// shoppingList.Remove("Dreams");
+// shoppingList.RemoveAt(1);
 
-Console.WriteLine("----------------");
+// Console.WriteLine("----------------");
 
-for (int i = 0; i < shoppingList.Count; i++)
-{
-    Console.WriteLine(shoppingList[i]);
-}
+// for (int i = 0; i < shoppingList.Count; i++)
+// {
+//     Console.WriteLine(shoppingList[i]);
+// }
+
+// int Multiply(int num01, int num02)
+// {
+//     int result = num01 * num02;
+//     return result;
+// }
+
+// Console.WriteLine(Multiply(9, 2));
+
+// Console.WriteLine("Enter a sentence: ");
+// var sentence = Console.ReadLine();
+// Console.WriteLine("There are " + sentence.Split(" ").Length + " words in that sentence.");
+
+Console.WriteLine("This is misc");

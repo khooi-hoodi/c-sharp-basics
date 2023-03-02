@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\c-sharp-basics.csproj": {}
+    "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\misc\\c-sharp-basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\c-sharp-basics.csproj": {
+    "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\misc\\c-sharp-basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\c-sharp-basics.csproj",
+        "projectUniqueName": "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\misc\\c-sharp-basics.csproj",
         "projectName": "c-sharp-basics",
-        "projectPath": "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\c-sharp-basics.csproj",
+        "projectPath": "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\misc\\c-sharp-basics.csproj",
         "packagesPath": "C:\\Users\\khooi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\obj\\",
+        "outputPath": "C:\\Users\\khooi\\Documents\\Projects\\c-sharp-basics\\misc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khooi\\AppData\\Roaming\\NuGet\\NuGet.Config"
